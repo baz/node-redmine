@@ -1,0 +1,17 @@
+{
+	"name": "node-redmine",
+	"description": "Redmine 1.2.0",
+	"version": "0.0.1",
+	"author": "Basil Shkara <basil@neat.io>",
+	"keywords": ["redmine"],
+	"main" : "lib/redmine",
+	"dependencies": {
+		"restler": ">=0.2.1"
+	}, 
+	"directories" : {
+		"lib" : "./lib"
+	},
+	"engines": {
+		"node": ">= 0.4.2"
+	}
+}
